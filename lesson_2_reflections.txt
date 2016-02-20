@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You set up the parameters needed to keep a history?  For gettin' it rarin' to go.

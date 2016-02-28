@@ -1,3 +1,22 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 You set up the parameters needed to keep a history?  For gettin' it rarin' to go.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+IDK
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By making you go through a self-checking process before you commit.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+They would help when you want to try out two or more different versions of a 
+project without immediately deciding which to go with.
+
+How do the diagrams help you visualize the branch structure?
+
+By doing what the question says they do.  Circular logic.  I have no better answer.

@@ -5,3 +5,7 @@ When you anticipate you'll be working on your repository from more than one comp
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 It lets you control which changes are pulled to your local workspace, allowing you to keep different versions of a log.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are only made on the github website and never in a local repository.  Clones are an identical copy of a committed version.  Branches are different versions of the same project, and are made in a local workspace.  

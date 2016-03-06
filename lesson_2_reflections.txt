@@ -1,11 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-You set up the parameters needed to keep a history?  For gettin' it rarin' to go.
+You set up the parameters needed to keep a history.  It's the first step in the process..
 
 How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 
-IDK
+I didn't get this one.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
@@ -19,4 +19,4 @@ project without immediately deciding which to go with.
 
 How do the diagrams help you visualize the branch structure?
 
-By doing what the question says they do.  Circular logic.  I have no better answer.
+By visually representing branches and merges as a flowchart, it makes them easier to conceptually understand.
